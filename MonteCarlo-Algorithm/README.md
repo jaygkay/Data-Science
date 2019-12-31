@@ -1,1 +1,2 @@
-# Monte Carlo Analysis assignment, midterm, and final 
+## Monte Carlo Analysis 
+- assignment, midterm, and final 
